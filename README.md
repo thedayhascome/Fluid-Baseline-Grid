@@ -67,21 +67,17 @@ Feedback, questions or thoughts about FBG? Email us and we will get back to you 
 The FBG System is cross-browser compatible and device independent: Firefox 3.5+, Opera 11+, Chrome 11+, Safari 5+ and Internet Explorer 6+.
 
 ## Changelog
-
-* v1.0.0 (9/01/2011): Initial release of FBG.
+* v1.0.0 (9/22/2011): Initial release of FBG.
 
 ## Attribution
 Many thanks to Richard Rutter, Ethan Marcotte, Paul Irish, Remy Sharp, Faruk Ates, Dan Cederholm, Nicolas Gallagher and Eric Meyer.
 
-## Changelog:
-v.1.0 : September 21st, 2011
-
 ## License:
 ### Components:
 
-* jQuery: MIT/GPL license
-* Respond.js MIT or GPL Version 2 licenses
-* HTML5shiv MIT or GPL Version 2 licenses
+* jQuery: MIT/GPL licenses
+* Respond.js MIT/GPL licenses
+* HTML5shiv MIT/GPL licenses
 
 ### License:
 * The code and design are released into public domain and are free to use under Unlicense. [Unlicense](http://unlicense.org)
