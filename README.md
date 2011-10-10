@@ -68,6 +68,8 @@ The FBG System is cross-browser compatible and device independent: Firefox 3.5+,
 
 ## Changelog
 * v1.0.0 (9/22/2011): Initial release of FBG.
+* v1.0.1 (10/09/2011): Shifted grid_bg to align with text baseline.
+* v1.0.1 (10/09/2011): Adjusted text size for screen size over 1400px.
 
 ## Attribution
 Many thanks to Richard Rutter, Ethan Marcotte, Paul Irish, Remy Sharp, Faruk Ates, Dan Cederholm, Nicolas Gallagher and Eric Meyer.
