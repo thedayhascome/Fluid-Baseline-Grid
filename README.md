@@ -16,12 +16,12 @@ The primary font is Georgia, but the font stack can be easily changed. Paragraph
 The FBG is designed for mobile first. CSS styles are scaled up from the minimum instead of scaled down from the maximum through the use of media queries. IE6/7/8 do not support media queries, so Respond.js is used to polyfill.
 
 ###Common Break Points
-* 320 px | Mobile portrait
-* 480 px | Mobile landscape
-* 600 px | Small tablet
-* 768 px | Tablet portrait
-* 1024 px | Tablet landscape/Netbook
-* 1280 px & greater | Desktop
+* 320 px | For Mobile portrait View
+* 480 px | For Mobile landscape View
+* 600 px | For Small tablet View
+* 768 px | For Tablet portrait View
+* 1024 px | For Tablet landscape/Netbook View
+* 1280 px & greater | For Desktop View
 
 ## Normalize CSS
 Reset vs. Normalize? Most web designers use either the Eric Meyer Reset or the YUI Reset, but a reset doesn't fix cross-browser inconsistencies or preserve useful defaults. Normalizing CSS allows for the preservation of useful defaults, while correcting bugs, fixing common browser inconsistencies and improving usability. Many thanks to Nicolas Gallagher and Jonathan Neal for researching the differences between default browser styles in order to precisely target only the styles that need normalizing.
