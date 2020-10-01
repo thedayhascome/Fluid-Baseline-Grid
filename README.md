@@ -14,6 +14,8 @@ The primary font is Georgia, but the font stack can be easily changed. Paragraph
 
 ## Responsive Design
 The FBG is designed for mobile first. CSS styles are scaled up from the minimum instead of scaled down from the maximum through the use of media queries. IE6/7/8 do not support media queries, so Respond.js is used to polyfill.
+## Grid
+The grid is the foundation for positioning elements onscreen. Designing to the grid helps create seamless, easy to follow experiences.
 
 ###Common Break Points
 * 320 px | Mobile portrait
