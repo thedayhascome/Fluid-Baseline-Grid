@@ -61,7 +61,7 @@ The code for FBG is simple, lightweight, and non-obtrusive, which allows it to b
 &lt;/div&gt;</pre>
 
 ## Feedback
-Feedback, questions or thoughts about FBG? Email us and we will get back to you as soon as possible.
+Feedback, questions or thoughts about FBG? Email us and we will get back to you as soon as possible. Please, give as much feedback as possible to improve this work.
 
 ## Browser & Device Support
 The FBG System is cross-browser compatible and device independent: Firefox 3.5+, Opera 11+, Chrome 11+, Safari 5+ and Internet Explorer 6+.
