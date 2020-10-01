@@ -1,4 +1,4 @@
-# Fluid Baseline Grid [http://fluidbaselinegrid.com](http://fluidbaselinegrid.com)
+# Fluid Baseline Grid [http://fluidbaselinegrid.com](http://fluidbaselinegrid.com) - An Amazing Project
 ###The Fluid Baseline Grid System is an HTML5 & CSS3 development kit that provides a solid foundation to quickly design websites with ease.
 
 The FBG system was built with typographic standards in mind and combines principals of fluid-column layouts, baseline grids and mobile-first responsive design into a resolution independent and device agnostic framework. It is packed with CSS normalization, beautiful typographic standards, corrected bugs, common browser inconsistencies and improved usability. You can finally have your cake and eat it too, all while making awesome websites.
@@ -13,7 +13,7 @@ The typography of FBG is designed to establish a typographic hierarchy that impr
 The primary font is Georgia, but the font stack can be easily changed. Paragraphs are set at a 16px base with 150% (24px) line height to improve readability and improve the appearance of text. We encourage you to change the base font size and line height to suit your needs.
 
 ## Responsive Design
-The FBG is designed for mobile first. CSS styles are scaled up from the minimum instead of scaled down from the maximum through the use of media queries. IE6/7/8 do not support media queries, so Respond.js is used to polyfill.
+The FBG is designed and developed for mobile first. CSS styles are scaled up from the minimum instead of scaled down from the maximum through the use of media queries. IE6/7/8 do not support media queries, so Respond.js is used to polyfill.
 
 ###Common Break Points
 * 320 px | Mobile portrait
