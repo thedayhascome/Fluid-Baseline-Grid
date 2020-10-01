@@ -43,7 +43,7 @@ The file structure for FBG is straight-forward and contains only the minimum fil
 * apple-touch-icon (x3): Maximum touch-icon support. Sizes for iPhone 3, iPad and iPhone 4 retina
 * robots.txt: SEO, search-crawler file
 
-## Usage
+## Usage Data 
 
 The code for FBG is simple, lightweight, and non-obtrusive, which allows it to be easily modified for each project. The default is based on a 3-column folding layout. 1 column for mobile devices, 2 columns for tablets and 3 columns for desktops and beyond. The only necessary provision is to add either <code>class="g1"</code>, <code>class="g2"</code> or <code>class="g3"</code> to each <code>&lt;div&gt;</code> you would like to make a column.
 
