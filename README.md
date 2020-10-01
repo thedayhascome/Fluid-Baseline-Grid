@@ -1,7 +1,7 @@
-# Fluid Baseline Grid [http://fluidbaselinegrid.com](http://fluidbaselinegrid.com)
+#  The Fluid Baseline Grid: [http://fluidbaselinegrid.com](http://fluidbaselinegrid.com)
 ###The Fluid Baseline Grid System is an HTML5 & CSS3 development kit that provides a solid foundation to quickly design websites with ease.
 
-The FBG system was built with typographic standards in mind and combines principals of fluid-column layouts, baseline grids and mobile-first responsive design into a resolution independent and device agnostic framework. It is packed with CSS normalization, beautiful typographic standards, corrected bugs, common browser inconsistencies and improved usability. You can finally have your cake and eat it too, all while making awesome websites.
+The Fluid Baseline Grid system was built with typographic standards in mind and combines principals of fluid-column layouts, baseline grids and mobile-first responsive design into a resolution independent and device agnostic framework. It is packed with CSS normalization, beautiful typographic standards, corrected bugs, common browser inconsistencies and improved usability. You can finally have your cake and eat it too, all while making awesome websites.
 
 ## Fluid Columns
 The FBG system facilitates creativity by providing a framework for composition. Grid systems create visual rhythm and structural balance to enhance the experience with predictable patterns.
