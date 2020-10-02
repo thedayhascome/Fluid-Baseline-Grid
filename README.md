@@ -74,7 +74,6 @@ The FBG System is cross-browser compatible and device independent: Firefox 3.5+,
 ## Attribution
 Many thanks to Richard Rutter, Ethan Marcotte, Paul Irish, Remy Sharp, Faruk Ates, Dan Cederholm, Nicolas Gallagher and Eric Meyer.
 
-## License:
 ### Components:
 
 * jQuery: MIT/GPL licenses
